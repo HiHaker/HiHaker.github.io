@@ -18,11 +18,11 @@ sidebar-avatar: /img/coolcat.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-weibo_username:一只想变强的hacker
-zhihu_username:云淡风轻
-github_username:    HiHaker
-facebook_username:  
-jianshu_username:   
+#weibo_username: 
+#zhihu_username: 
+github_username: HiHaker
+#facebook_username:  
+#jianshu_username:   
 #twitter_username: 
 
 
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+#Disqus（https://disqus.com/）
+#disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
@@ -104,5 +104,11 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "豆瓣",
+        href: "https://www.douban.com/"
+    },{
+        title: "知乎",
+        href: "https://www.zhihu.com/"
     }
 ]
