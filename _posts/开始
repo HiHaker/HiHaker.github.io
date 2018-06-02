@@ -1,0 +1,13 @@
+---
+layout:   post
+title:    第一篇blog
+subtitle: Hello world!Hello blog!
+date:     2018-06-02
+author:   JL
+header-image: polymagnet.png
+catalog:  true
+tags:
+    -生活
+##hey
+>这是我的第一篇blog~
+###今天也是折腾这个折腾了好一会儿，要学的东西还太多，比如yaml，慢慢学吧
